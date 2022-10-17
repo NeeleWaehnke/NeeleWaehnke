@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Neele and I'm currently studying **Web Developement** which is very exciting.
+My name is Neele and I'm currently studying **Web Developement** which is very exciting!
 
 I enjoy:
 - learning new things :dizzy:
